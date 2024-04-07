@@ -1,0 +1,90 @@
+{
+  "flights": [
+    {
+      "id": "4a13",
+      "capacity": 200,
+      "date": "2024-04-10T22:00:00.000Z",
+      "flightCode": "GHI789"
+    },
+    {
+      "id": "6ad7",
+      "capacity": 333,
+      "date": "2024-04-11T22:00:00.000Z",
+      "flightCode": "hhhsdh"
+    },
+    {
+      "id": "30a1",
+      "capacity": 233,
+      "date": "2024-04-11T22:00:00.000Z",
+      "flightCode": "jsdhjs"
+    },
+    {
+      "id": "0ecb",
+      "capacity": 76,
+      "date": "2024-04-12T22:00:00.000Z",
+      "flightCode": "jgqjkwe"
+    }
+  ],
+  "users": [
+    {
+      "id": "e462",
+      "username": "test",
+      "password": "test"
+    },
+    {
+      "id": "bec5",
+      "username": "test2",
+      "password": "test"
+    },
+    {
+      "id": "12cd",
+      "username": "test5",
+      "password": "test5"
+    },
+    {
+      "id": "8cd5",
+      "username": "test8",
+      "password": "test8"
+    },
+    {
+      "id": "8dc5",
+      "username": "test77",
+      "password": "test"
+    },
+    {
+      "id": "c45e",
+      "username": "test87",
+      "password": "test"
+    },
+    {
+      "id": "4acd",
+      "username": "test444",
+      "password": "test"
+    },
+    {
+      "id": "8b24",
+      "username": "test888",
+      "password": "test"
+    },
+    {
+      "id": "3ef2",
+      "username": "test76",
+      "password": "test"
+    },
+    {
+      "id": "cd01",
+      "username": "test2k",
+      "password": "test"
+    },
+    {
+      "id": "40c3",
+      "username": "test9789",
+      "password": "NA6KPIFcKI8RCQx2n+nqNg=="
+    },
+    {
+      "id": "2596",
+      "username": "tetsklnlk",
+      "password": "NA6KPIFcKI8RCQx2n+nqNg=="
+    }
+  ]
+}
